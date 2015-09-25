@@ -1,0 +1,78 @@
+.whole-page{
+    width:800px;
+    margin: 40 auto 50;
+}
+
+.big{
+    font-family:Arial;
+    font-weight:bold;
+    font-size:22px;
+}
+
+.thick{
+    font-weight:bold;
+    font-family:sans-serif;
+}
+
+/*.left{*/
+/*    text-align:right;*/
+/*    font-style:italic;*/
+/*    font-weight:bold;*/
+/*    font-family:sans-serif;*/
+    /*height:100px;*/
+/*    width:40%;*/
+/*    border-right:1px solid black;*/
+/*    padding-right:30px;*/
+    /*position: relative;*/
+/*}*/
+
+/*.right{*/
+/*    float:right;*/
+/*    width:50%;*/
+    /*position: relative;*/
+/*}*/
+
+/*.mid{*/
+/*    width: 100%;*/
+    /*position:absolute;*/
+/*}*/
+
+#about-me{
+    font-style:italic;
+    width:550px;
+}
+
+h1{
+    border-bottom:1px solid black;
+    font-family:Arial;
+}
+
+img{
+    float:right;
+    clear:both;
+    width:200px;
+    -ms-transform: rotate(-5deg);
+    -webkit-transform: rotate(-5deg);
+    transform: rotate(-5deg);
+}
+
+table{
+    padding-top:20px;
+    margin:auto;
+    width: 100%;
+}
+
+td {
+    vertical-align: top;
+    padding-left:30px;
+}
+
+tr > td:first-child {
+    text-align:right;
+    font-style:italic;
+    font-weight:bold;
+    font-family:sans-serif;
+    height:100px;
+    border-right:1px solid black;
+    padding-right:30px;
+}
