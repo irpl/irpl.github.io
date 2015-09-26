@@ -1,7 +1,8 @@
 .whole-page{
     width:800px;
     height:100%;
-    margin: 40 auto 50;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .big{
